@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joaovitorvas
 - 👀 I’m interested in coding and chess
 - 🌱 I’m currently learning javascript, java and typescript
-- 💞️ I’m looking to collaborate on react 
+- 💞️ I’m looking to collaborate on angular
 - 📫 You can talk with me in joaovitorvasc.2307@outlook.com
 
 <!---
