@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @joaovitorvas
-- 👀 I’m interested in coding and chess
-- 🌱 I’m currently learning javascript and python.
-- 💞️ I’m looking to collaborate on react/next.js
-- 📫 You can talk with me in joaovitorvasc.2307@outlook.com
+# Hi, I'm Vitor 👋
 
-<!---
-joaovitorvas/joaovitorvas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorvas&layout=compact&theme=dracula)
+Statistics student at the University of São Paulo (USP)  
+Focused on data science, analytics, and causal inference.
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- R
+- SQL
+- Git & GitHub
+- Jupyter
+
+---
+
+## 📫 Let's Connect
+
+📧 Email: joaovitorvasc.2307@outlook.com  
+💼 LinkedIn: [linkedin.com/in/joaovitorvasc](https://www.linkedin.com/in/joaovitorvasc/)
